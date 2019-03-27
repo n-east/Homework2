@@ -8,3 +8,5 @@ second_num = int(input("Please enter another number :"))
 
 if first_num > second_num:
     print("num 1 is bigger than num 2")
+if first_num < second_num:
+    print("num 2 is bigger than num 1")
