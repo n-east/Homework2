@@ -7,4 +7,4 @@ first_num = int(input("Please enter one number :"))
 second_num = int(input("Please enter another number :"))
 
 if first_num > second_num:
-    print("num 1 is bigger than num 2")
+    print("Number 1 is bigger than Number 2")
